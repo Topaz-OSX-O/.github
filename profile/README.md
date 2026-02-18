@@ -1,7 +1,7 @@
 # Topaz OSX
 
 <p align="center">
-  <img src="https://img.lazcdn.com/g/p/22ecbb6989557b6316f92a0c53187ef4.png_720x720q80.png" width="200" alt="Topaz icon"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyddKja3TNkETVcJOznSrUndCJvYXgr2Jvw&s" width="200" alt="Topaz icon"/>
 </p>
 
 <p align="center">
